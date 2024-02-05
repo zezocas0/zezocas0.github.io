@@ -3,7 +3,7 @@ name: Generate PDF from JSON Resume
 on:
   push:
     paths:
-      - '/assets/json/resume.json'
+      - 'assets/json/resume.json' # Ensure this path correctly matches your project structure without the leading '/'
 
 jobs:
   build:
@@ -29,7 +29,6 @@ jobs:
       - name: Upload PDF to Artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: resume
-          path: resume.pdf
-
+          name: CurriculumV
+          path: 'resume.pdf' # Adjusted to the correct path assuming 'resume.pdf' is generated in the root directory
 
