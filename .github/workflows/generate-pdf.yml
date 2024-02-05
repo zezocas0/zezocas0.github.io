@@ -21,6 +21,9 @@ jobs:
       - name: Install resume-cli
         run: npm install -g resume-cli
 
+      - name: Change to JSON directory
+        run: cd assets/json
+      
       - name: Generate PDF
         run: resume export resume.pdf --format pdf --theme paper
         env:
