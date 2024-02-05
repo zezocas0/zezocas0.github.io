@@ -26,9 +26,9 @@ jobs:
         env:
           NODE_PATH: /opt/hostedtoolcache/node/14.x/x64/lib/node_modules
 
-      - name: Upload PDF to Artifacts
-        uses: actions/upload-artifact@v2
-        with:
-          name: CurriculumV
-          path: 'assets/pdf/CurriculumV.pdf' # Adjusted to the correct path assuming 'resume.pdf' is generated in the root directory
+      # - name: Upload PDF to Artifacts
+      #   uses: actions/upload-artifact@v2
+      #   with:
+      #     name: CurriculumV
+      #     path: 'assets/pdf/CurriculumV.pdf' # Adjusted to the correct path assuming 'resume.pdf' is generated in the root directory
 
