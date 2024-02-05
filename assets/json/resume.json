@@ -70,7 +70,13 @@
     },
     {
       "name":"Robotics",
-      "level":""
+      "level":" Intermediate",      
+      "icon":"fa-solid fa-robot",
+      "keywords":[
+        "ROS",
+        "Gazebo",
+        "Raspberry Pi"
+      ]
 
 
     }
