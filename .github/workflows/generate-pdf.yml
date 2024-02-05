@@ -1,0 +1,35 @@
+name: Generate PDF from JSON Resume
+
+on:
+  push:
+    paths:
+      - '/assets/json/resume.json'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install resume-cli
+        run: npm install -g resume-cli
+
+      - name: Generate PDF
+        run: resume export resume.pdf --format pdf --theme paper
+        env:
+          NODE_PATH: /opt/hostedtoolcache/node/14.x/x64/lib/node_modules
+
+      - name: Upload PDF to Artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: resume
+          path: resume.pdf
+
+
