@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - zezocas0
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - zezocas0/Robutler-G1
+  - zezocas0/psr
+  - zezocas0/Visualizacao_Informacao_P
+  - zezocas0/TP1_RM
+  - zezocas0/VisTP1
