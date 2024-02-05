@@ -30,5 +30,5 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: CurriculumV
-          path: 'resume.pdf' # Adjusted to the correct path assuming 'resume.pdf' is generated in the root directory
+          path: 'assets/pdf/CurriculumV.pdf' # Adjusted to the correct path assuming 'resume.pdf' is generated in the root directory
 
