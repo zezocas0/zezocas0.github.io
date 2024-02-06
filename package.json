@@ -1,6 +1,31 @@
 {
   "devDependencies": {
     "@shopify/prettier-plugin-liquid": "1.4.0",
-    "prettier": "3.1.1"
-  }
+    "jsonresume-theme-bhdouglass": "^1.0.1",
+    "prettier": "3.1.1",
+    "resume-cli": "^3.0.8"
+  },
+  "dependencies": {
+    "jsonresume-theme-even": "^0.22.0",
+    "jsonresume-theme-paper": "file:node_modules/jsonresume-theme-paper",
+    "resume-schema": "^1.0.0",
+    "resumed": "^3.0.1"
+  },
+  "name": "zezocas0.github.io",
+  "description": "<div align=\"center\">",
+  "version": "1.0.0",
+  "main": "purgecss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zezocas0/zezocas0.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zezocas0/zezocas0.github.io/issues"
+  },
+  "homepage": "https://github.com/zezocas0/zezocas0.github.io#readme"
 }
