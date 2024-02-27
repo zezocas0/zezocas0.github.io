@@ -240,7 +240,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-  
+  - jekyll-multiple-languages-plugin
 
 # Sitemap settings
 defaults:
@@ -251,6 +251,11 @@ defaults:
 
 sass:
   style: compressed
+
+# multi language settings
+languages: ["en", "pt"]
+default_locale_in_subfolder: false
+
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
