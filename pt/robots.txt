@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://zezocas0.github.io/pt/sitemap.xml
