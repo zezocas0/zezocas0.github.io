@@ -1,11 +1,11 @@
 ---
 layout: about
-title: titles.about
+title: about
 permalink: /
 subtitle: Programmer, Robotics enthusiast. 
 
 profile:
-  align: right
+  align: center
   image: pfp.jpg
   image_circular: false # crops the image to make it circular
   more_info: >

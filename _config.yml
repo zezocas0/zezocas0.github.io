@@ -253,8 +253,8 @@ sass:
   style: compressed
 
 # multi language settings
-languages: ["en", "pt"]
-default_locale_in_subfolder: false
+# languages: ["en", "pt"]
+# default_locale_in_subfolder: false
 
 
 # -----------------------------------------------------------------------------
