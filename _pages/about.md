@@ -15,8 +15,8 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
 Hello There 👋
+
 
 I'm a Masters student in Robotics and Intelligent systems at the [University of Aveiro](https://www.ua.pt/pt/curso/467), currently working on my thesis on the field of Computer Vision and Machine Learning. 
 Previously a Bachelor's student in Engineering and Industrial management in [Leiria's Politechic institute ](https://www.ipleiria.pt/en/course/undergraduate-in-industrial-engineering-and-management/), I've always been passionate about technology and its applications. 
