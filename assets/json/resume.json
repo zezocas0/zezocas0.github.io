@@ -2,14 +2,20 @@
   "meta": {
     "theme": "elegant"
   },
-  "basics": {
+  "Personal Details": {
     "name": "José Santos",
     "label": "Student",
     "image": "https://zezocas0.github.io/assets/img/pfp.png",
     "email": "jafsantos2001@gmail.com",
     "phone": "(351) 918-887-864",
-    "url": "https://zezocas0.github.io/",
-    "summary": "A full time student working on some projects and learning new things."
+    "website": "https://zezocas0.github.io/",
+    "summary": "I am a student at the University of Aveiro, studying Robotics and Intelligent Systems. I am passionate about robotics and artificial intelligence. I am always looking for new challenges and opportunities to learn and grow.",
+    "location":{
+      "city": "Leiria",
+      "country": "Portugal",
+      "CountryCode": "PT"
+    }
+
   },
   "education": [
     {
