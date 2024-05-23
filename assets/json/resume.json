@@ -18,7 +18,6 @@
       "area": "Robotics and Intelligent Systems",
       "studyType": "MSc",
       "startDate": "2022-09-15",
-      "endDate": "-",
       "score": "-",
       "courses": [
         "Artificial Intelligence",
@@ -52,8 +51,7 @@
         "Industrial Processing",
         "Economics",
         "Accounting",
-        "Business Marketing",
-        ""
+        "Business Marketing"
       ],
       "location": "Leiria, Portugal"
     }
@@ -65,6 +63,31 @@
       "url": "https://zezocas0.github.io/assets/pdf/certificado_ingles.pdf",
       "issuer": "Cambrige University",
       "icon": "fa-solid fa-location-dot"
+    }
+  ],
+  "work":[
+    {
+    "name": "Integratied Internship in 1st cycle degree",
+    "position": " Intern ",
+    "url":"https://www.vidrala.com/en/contact/gallo-vidro/ ",
+    "startDate": "2021-04-01",
+    "endDate": "2021-07-30",
+    "summary": "Internshi where I worked with several departments of the company, such as production, quality control and maintenance.",
+    "highlights": [
+      "Optimization of the production line",
+      "Quality control",
+      "Maintenance of the production line"
+    ]
+    },{
+      "name":"",
+      "position":"full time researcher on Projeto Nexus",
+      "url":"https://www.ua.pt/pt/agendasprr/NEXUS ",
+      "startDate":"06-02-2024",
+      "summary":"Researcher in the field of artificial intelligence and computer vision, working on the development of a vison system capable of detecting the unique identifier of each container code in a pier gate. ",
+      "highlights":[
+        "Development of a camera system",
+        "Development of a fine-tuned model with OCR capabilities"
+      ]
     }
   ],
   "skills": [
@@ -107,9 +130,6 @@
   "interests": [
     {
       "name": "Photography "
-    },
-    {
-      "name": "Cooking"
     }
   ]
 
