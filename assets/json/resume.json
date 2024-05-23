@@ -2,32 +2,32 @@
   "meta": {
     "theme": "elegant"
   },
-  "Personal Details": {
+  "basics": {
     "name": "José Santos",
     "label": "Student",
     "image": "https://avatars.githubusercontent.com/u/64868561?v=4",
     "email": "jafsantos2001@gmail.com",
     "phone": "(351) 918-887-864",
-    "website": "https://zezocas0.github.io/",
+    "website": "https://zezocas0.github.io",
     "summary": "I am a student at the University of Aveiro, studying Robotics and Intelligent Systems. I am passionate about robotics and artificial intelligence. I am always looking for new challenges and opportunities to learn and grow.",
-    "location":{
+    "location": {
       "city": "Leiria",
       "country": "Portugal",
-      "CountryCode": "PT"
-    }
-  },
-  "profiles": [
-    {
-      "network": "LinkedIn",
-      "url": "https://www.linkedin.com/in/zezocas0/",
-      "icon": "fa-brands fa-linkedin"
+      "countryCode": "PT"
     },
-    {
-      "network": "GitHub",
-      "url": "https://github.com/zezocas0",
-      "icon": "fa-brands fa-github"
-    }
-  ],
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/zezocas0/",
+        "username": "zezocas0"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/zezocas0",
+        "username": "zezocas0"
+      }
+    ]
+  },
   "education": [
     {
       "institution": "University of Aveiro",
@@ -49,10 +49,10 @@
       "location": "Aveiro, Portugal"
     },
     {
-      "institution": "Politecnic Insitute of Leiria",
+      "institution": "Politecnic Institute of Leiria",
       "url": "https://www.ipleiria.pt/",
-      "area": "Enginnering and industrial management",
-      "studyType": "1st cycle",
+      "area": "Engineering and Industrial Management",
+      "studyType": "1st Cycle",
       "startDate": "2019-09-15",
       "endDate": "2022-07-22",
       "score": "14",
@@ -60,10 +60,10 @@
         "Mathematics",
         "Physics",
         "Statistics",
-        "Industrial management",
+        "Industrial Management",
         "Industrial Logistics",
-        "Production and organization management",
-        "Optimization and industrial management",
+        "Production and Organization Management",
+        "Optimization and Industrial Management",
         "Computer Assisted Manufacturing",
         "Industrial Processing",
         "Economics",
@@ -76,33 +76,33 @@
   "certificates": [
     {
       "name": "English Proficiency",
-      "date": "2018-01-08", 
+      "date": "2018-01-08",
       "url": "https://zezocas0.github.io/assets/pdf/certificado_ingles.pdf",
-      "issuer": "Cambrige University",
+      "issuer": "Cambridge University",
       "icon": "fa-solid fa-location-dot"
     }
   ],
-  "work":[
+  "work": [
     {
-    "name": "Gallo Vidro",
-    "position": " Intern ",
-    "url":"https://www.vidrala.com/en/contact/gallo-vidro/ ",
-    "startDate": "2021-04-01",
-    "endDate": "2021-07-30",
-    "summary": "Internshi where I worked with several departments of the company, such as production, quality control and maintenance.",
-    "highlights": [
-      "Optimization of the production line",
-      "Quality control",
-      "Maintenance of the production line"
-    ]
+      "name": "Gallo Vidro",
+      "position": "Intern",
+      "url": "https://www.vidrala.com/en/contact/gallo-vidro/",
+      "startDate": "2021-04-01",
+      "endDate": "2021-07-30",
+      "summary": "Internship where I worked with several departments of the company, such as production, quality control and maintenance.",
+      "highlights": [
+        "Optimization of the production line",
+        "Quality control",
+        "Maintenance of the production line"
+      ]
     },
     {
-      "name":"Researcher",
-      "position":"Projeto Nexus, Port Scene Analysis",
-      "url":"https://www.ua.pt/pt/agendasprr/NEXUS ",
-      "startDate":"2024-02-16",
-      "summary":"Researcher in the field of artificial intelligence and computer vision, working on the development of a vison system capable of detecting the unique identifier of each container code in a pier gate. ",
-      "highlights":[
+      "name": "Researcher",
+      "position": "Projeto Nexus, Port Scene Analysis",
+      "url": "https://www.ua.pt/pt/agendasprr/NEXUS",
+      "startDate": "2024-02-16",
+      "summary": "Researcher in the field of artificial intelligence and computer vision, working on the development of a vision system capable of detecting the unique identifier of each container code in a pier gate.",
+      "highlights": [
         "Development of a camera system",
         "Development of a fine-tuned model with OCR capabilities"
       ]
@@ -123,7 +123,7 @@
     },
     {
       "name": "Robotics",
-      "level": " Intermediate",
+      "level": "Intermediate",
       "keywords": [
         "ROS",
         "Gazebo",
@@ -132,21 +132,21 @@
       ],
       "icon": "fa-solid fa-robot"
     },
-     { 
-      "name": "software",
-      "keywords":[
+    {
+      "name": "Software",
+      "keywords": [
         "Matlab",
         "SolidWorks",
         "AutoCAD",
         "Power Bi",
         "Siemens TIA Portal",
-        "Siemens Tecnomatix plant Simulation"
+        "Siemens Tecnomatix Plant Simulation"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Porguese",
+      "language": "Portuguese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -158,8 +158,7 @@
   ],
   "interests": [
     {
-      "name": "Photography "
+      "name": "Photography"
     }
   ]
-
 }
