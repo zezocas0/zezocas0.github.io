@@ -5,7 +5,7 @@
   "Personal Details": {
     "name": "José Santos",
     "label": "Student",
-    "image": "https://zezocas0.github.io/assets/img/pfp.png",
+    "image": "https://avatars.githubusercontent.com/u/64868561?v=4",
     "email": "jafsantos2001@gmail.com",
     "phone": "(351) 918-887-864",
     "website": "https://zezocas0.github.io/",
@@ -15,8 +15,19 @@
       "country": "Portugal",
       "CountryCode": "PT"
     }
-
   },
+  "profiles": [
+    {
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/zezocas0/",
+      "icon": "fa-brands fa-linkedin"
+    },
+    {
+      "network": "GitHub",
+      "url": "https://github.com/zezocas0",
+      "icon": "fa-brands fa-github"
+    }
+  ],
   "education": [
     {
       "institution": "University of Aveiro",
@@ -65,7 +76,7 @@
   "certificates": [
     {
       "name": "English Proficiency",
-      "date": "2019-5-1", 
+      "date": "2018-01-08", 
       "url": "https://zezocas0.github.io/assets/pdf/certificado_ingles.pdf",
       "issuer": "Cambrige University",
       "icon": "fa-solid fa-location-dot"
