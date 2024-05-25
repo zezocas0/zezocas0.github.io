@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: [cv](https://registry.jsonresume.org/zezocas0)
+cv_pdf: [cv.pdf](https://registry.jsonresume.org/zezocas0)
 description: 
 toc:
   sidebar: left
