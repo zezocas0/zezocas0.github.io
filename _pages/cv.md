@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: jose-santos.pdf
+cv_pdf: cv_no_phone.pdf
 description: 
 toc:
   sidebar: left
