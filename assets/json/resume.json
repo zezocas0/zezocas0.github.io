@@ -9,7 +9,7 @@
     "email": "jafsantos2001@gmail.com",
     "phone": "(351) 0",
     "website": "zezocas0.github.io",
-    "summary": "I am a student at the University of Aveiro, studying Robotics and Intelligent Systems. I am passionate about robotics and artificial intelligence. I am always looking for new challenges and opportunities to learn and grow.",
+    "summary": "Artificial Intelligence Researcher with experience in computer vision and robotics. I work well in teams, adapt quickly to new challenges, and communicate fluently in English. Motivated and dedicated, I seek opportunities to learn and grow in AI and automation.",
     "location": {
       "city": "Leiria",
       "country": "Portugal",
@@ -33,38 +33,36 @@
       "institution": "University of Aveiro",
       "url": "https://www.ua.pt/",
       "area": "Robotics and Intelligent Systems",
-      "studyType": "MSc",
+      "studyType": "Master's Degree",
       "startDate": "2022-09-15",
-      "score": "-",
+      "endDate": "2024-12-11",
       "courses": [
         "Artificial Intelligence",
-        "Simulation and optimization",
+        "Simulation and Optimization",
         "Digital Control",
-        "Programming of robotic systems",
+        "Robotic Systems Programming",
         "Mobile Robotics",
         "Industrial Robotics",
-        "Computer vision",
+        "Computer Vision",
         "Information Retrieval"
       ],
       "location": "Aveiro, Portugal"
     },
     {
-      "institution": "Politecnic Institute of Leiria",
+      "institution": "Polytechnic Institute of Leiria",
       "url": "https://www.ipleiria.pt/",
-      "area": "Engineering and Industrial Management",
-      "studyType": "1st Cycle",
+      "area": "Industrial Engineering and Management",
+      "studyType": "Bachelor's Degree",
       "startDate": "2019-09-15",
       "endDate": "2022-07-22",
       "score": "14",
       "courses": [
-        "Mathematics",
-        "Physics",
         "Statistics",
         "Industrial Management",
         "Industrial Logistics",
         "Production and Organization Management",
-        "Optimization and Industrial Management",
-        "Computer Assisted Manufacturing",
+        "Industrial Optimization and Management",
+        "Computer-Aided Manufacturing",
         "Industrial Processing",
         "Economics",
         "Accounting",
@@ -78,12 +76,12 @@
       "name": "English Proficiency",
       "date": "2018-01-08",
       "url": "https://zezocas0.github.io/assets/pdf/certificado_ingles.pdf",
-      "issuer": "Cambridge University",
+      "issuer": "University of Cambridge",
       "icon": "fa-solid fa-location-dot"
-    }
-    ,{
-      "name": "Microcredencial Object Programming in C++ ",
-      "date":"2024-06-12",
+    },
+    {
+      "name": "Microcredential in Object-Oriented Programming (C++)",
+      "date": "2024-06-12",
       "url": "https://www.ua.pt/pt/curso/1725",
       "issuer": "University of Aveiro",
       "icon": "fa-solid fa-location-dot"
@@ -92,13 +90,13 @@
   "work": [
     {
       "name": "Researcher",
-      "position": "Projeto Nexus, Port Scene Analysis",
+      "position": "Nexus Project, Scene Analysis at the Port",
       "url": "https://www.ua.pt/pt/agendasprr/NEXUS",
       "startDate": "2024-02-16",
-      "summary": "Researcher in the field of artificial intelligence and computer vision, working on the development of a vision system capable of detecting the unique identifier of each container code in a pier gate.",
+      "summary": "Researcher in artificial intelligence and computer vision, developing a vision system to detect unique container codes at port gates.",
       "highlights": [
-        "Development of a camera system",
-        "Development of a fine-tuned model with OCR capabilities"
+        "Camera system development",
+        "Custom OCR model implementation"
       ]
     },
     {
@@ -107,61 +105,49 @@
       "url": "https://www.vidrala.com/en/contact/gallo-vidro/",
       "startDate": "2021-04-01",
       "endDate": "2021-07-30",
-      "summary": "Internship where I worked with several departments of the company, such as production, quality control and maintenance.",
+      "summary": "Internship across multiple departments (production, quality control, maintenance).",
       "highlights": [
-        "Optimization of the production line",
+        "Production line optimization",
         "Quality control",
-        "Maintenance of the production line"
+        "Production line maintenance"
       ]
     }
   ],
   "skills": [
     {
       "name": "Programming",
-      "level": "Master",
-      "keywords": [
-        "Python",
-        "Matlab",
-        "CSS",
-        "C++",
-        "HTML",
-        "three.js"
-      ],
-      "icon": "fa-solid fa-hashtag"
+      "level": "Advanced",
+      "keywords": ["Python", "C++", "MATLAB", "JavaScript (three.js)", "HTML/CSS", "Git"],
+      "icon": "fa-solid fa-code"
     },
     {
       "name": "Robotics",
       "level": "Intermediate",
-      "keywords": [
-        "ROS",
-        "Gazebo",
-        "Raspberry Pi",
-        "Arduino"
-      ],
+      "keywords": ["ROS", "Gazebo", "Arduino", "Raspberry Pi", "Industrial Robotics"],
       "icon": "fa-solid fa-robot"
     },
     {
-      "name": "Software",
-      "keywords": [
-        "Matlab",
-        "SolidWorks",
-        "AutoCAD",
-        "Power Bi",
-        "Siemens TIA Portal",
-        "Siemens Tecnomatix Plant Simulation"
-      ]
+      "name": "Simulation & Design",
+      "keywords": ["SolidWorks", "AutoCAD", "Siemens Tecnomatix", "MATLAB Simulink"],
+      "icon": "fa-solid fa-cogs"
+    },
+    {
+      "name": "Automation Software",
+      "keywords": ["Power BI", "Siemens TIA Portal", "Siemens Tecnomatix Plant Simulation"]
     }
   ],
-  "awards":[{
-      "title": "IPL+ Industry",
+  "awards": [
+    {
+      "title": "IPL+ Industry Scholarship",
       "date": "2022-07-21",
       "awarder": "Vidrala S.A. - Gallo Vidro",
-      "summary": "The Scholarships +Industry aims to reward the academic merit of students from the Polytechnic of Leiria throughout their academic career, and I was one of the students awarded in the academic year 2021/2022."
-    }],
+      "summary": "Awarded for academic excellence to top-performing Industrial Engineering students at Polytechnic Institute of Leiria."
+    }
+  ],
   "languages": [
     {
       "language": "Portuguese",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
