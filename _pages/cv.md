@@ -16,4 +16,6 @@ toc:
 <!--
  https://registry.jsonresume.org/zezocas0  
 
+ save as a A3 pdf. change zoom so it doesnt make 2 pages
+
 -->
