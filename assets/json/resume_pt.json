@@ -88,6 +88,14 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
+  "publications": [{
+    "name": " Automating Code Recognition for Cargo Containers ",
+    "publisher": "MDPI Jornal Eletrónica",
+    "releaseDate": "2025-10-14",
+    "url": "https://www.mdpi.com/2079-9292/14/22/4437",
+    "DOI": "https://doi.org/10.3390/electronics14224437",
+    "summary": "Este trabalho apresenta um sistema de OCR que usa o YOLOv7 para detetar códigos de contentores e o TrOCR para reconhecer o texto. O método funciona bem em condições reais de porto, mesmo com pouca luz ou distorções, obtendo melhor precisão e fiabilidade e tornando as operações mais eficientes e automatizadas."}
+  ],
   "work": [
     {
       "name": "Investigador",

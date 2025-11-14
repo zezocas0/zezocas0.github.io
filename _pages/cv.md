@@ -15,6 +15,7 @@ toc:
 <!-- cv data in assets/json/resume.json -->
 <!--
  https://registry.jsonresume.org/zezocas0  
+ Named gist as "resume.json"
 
  save as a A3 pdf. change zoom so it doesnt make 2 pages
 
