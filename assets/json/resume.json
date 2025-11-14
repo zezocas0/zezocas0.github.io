@@ -87,6 +87,14 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
+  "publications": [{
+    "name": " Automating Code Recognition for Cargo Containers ",
+    "publisher": "MDPI",
+    "releaseDate": "2025-10-14",
+    "url": "https://www.mdpi.com/2079-9292/14/22/4437",
+    "DOI": "https://doi.org/10.3390/electronics14224437",
+    "summary": "This publication presents a hybrid OCR system that combines YOLOv7 for container code detection with the transformer-based TrOCR model for text recognition. The approach is designed to handle real-world port conditions, including challenging lighting, distortions, and multi-oriented codes. The results demonstrate significant gains in accuracy and robustness compared to traditional OCR solutions, contributing to more efficient, reliable, and automated port logistics operations."}
+  ], 
   "work": [
     {
       "name": "Researcher",
