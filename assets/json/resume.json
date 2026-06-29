@@ -112,6 +112,7 @@
       "position": "Nexus Project, Scene Analysis at the Port",
       "url": "https://www.ua.pt/pt/agendasprr/NEXUS",
       "startDate": "2024-02-16",
+      "endDate":"2025-12-31",
       "summary": "Researcher in artificial intelligence and computer vision, developing a vision system to detect unique container codes at port gates.",
       "highlights": [
         "Camera system development",
